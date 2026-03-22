@@ -44,7 +44,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/xiaomada",
 			"label": "Github",
 			"order": 3
 		},
@@ -58,7 +58,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "1622106009@qq.com",
 			"label": "",
 			"order": 1
 		}
